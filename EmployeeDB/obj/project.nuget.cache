@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nwqm81JFSIsTKHmj2gaVcPGSQlxT8S/FBs6/psk5xRaIgZ9Hm/pfB1DOZ+ljVBGcmpX0K56mA5Bc8cieUeztqw==",
+  "dgSpecHash": "ak3iMmrI8wLkZlXDf1w+nnzRjBCGbvwIbZ3cpnh7VUKiWb4ip/OC6tE0Y5dCnFGQm26OYQkEmNTt3+OlaYt4nA==",
   "success": true,
   "projectFilePath": "C:\\Users\\nirza\\RiderProjects\\EmployeeDB\\EmployeeDB.csproj",
   "expectedPackageFiles": [
@@ -45,7 +45,11 @@
     "C:\\Users\\nirza\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\nirza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\nirza\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\nirza\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+    "C:\\Users\\nirza\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.3\\microsoft.netcore.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.3\\microsoft.windowsdesktop.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.3\\microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\nirza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.3\\microsoft.netcore.app.host.win-x64.6.0.3.nupkg.sha512"
   ],
   "logs": []
 }
