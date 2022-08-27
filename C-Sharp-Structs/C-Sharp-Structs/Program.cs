@@ -1,6 +1,10 @@
 ﻿
 Console.WriteLine("Hello World!");
 
+Console.WriteLine("This is a new application called");
+
+
+
 
 SendEmail mail = new();
 ComposeEmail composeEmail = new();
@@ -10,6 +14,7 @@ composeEmail.ComposeAsync();
 readMails.ReadAsync();
 
 Console.ReadLine();
+
 
 
 public class SendEmail
